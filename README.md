@@ -40,4 +40,4 @@ https://www.rarlab.com/rarnew.htm
 
 ## 下载地址
 
-[WinRAR v7.23 64位 官方原版已注册特别版](https://raw.githubusercontent.com/vtechdot/winrar/refs/heads/main/WinRA.v7.23.7z)
+[WinRAR v7.23 64位 官方原版已注册特别版](https://u.pcloud.link/publink/show?code=XZNP1HJZ1Qf7T1iSxIYinKItnhNIwF1JkCW7)
